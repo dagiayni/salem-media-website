@@ -2,76 +2,76 @@
     "en": {
         "hero": {
             "title": "Salem Media",
-            "subtitle": "Amplifying Voices That Matter",
-            "description": "We create space for meaningful conversations, cultural knowledge, and stories that inspire action across our community.",
-            "cta": "Explore Our Content"
+            "subtitle": "Peace I leave with you; My peace I give to you",
+            "description": "A place where you can find programs that restore peace of heart, shaped by Orthodox tradition.",
+            "cta": "Learn About Salem"
         },
         "voice_header": {
-            "badge": "Our Voice",
-            "title": "What We Share",
-            "description": "We are committed to fostering a space where culture meets innovation. Our content is carefully curated to inspire, educate, and connect our community through shared values and visionary stories."
+            "badge": "On Our Platforms",
+            "title": "Content We Share",
+            "description": "We bring you carefully selected programs that connect spiritual life with spiritual knowledge."
         },
         "voice": [
             {
-                "title": "Conversations",
-                "description": "Real dialogues that challenge perspectives and spark meaningful change."
+                "title": "Salem Media",
+                "description": "Spiritual teachings, hymns that nourish the soul, life-giving programs, and content that enlightens with spiritual knowledge."
             },
             {
-                "title": "Knowledge",
-                "description": "Educational content rooted in culture, history, and modern innovation."
+                "title": "Gubae Zehote Birhan (Wednesday)",
+                "description": "Your favorite teachers, your favorite hymn singers, a special hall program where you learn practical Christian living."
             },
             {
-                "title": "Community Stories",
-                "description": "Authentic narratives from voices shaping our collective future."
+                "title": "Melake Birhan Memhir Solomon Bekele",
+                "description": "Chief Administrator of Bole Hohite Birhan St. Mary Cathedral."
             }
         ],
         "socials": [
             {
                 "platform": "Instagram",
-                "description": "Visual storytelling and daily updates through an editorial lens.",
+                "description": "Programs clothed in Orthodox life, here they are.",
                 "cta": "Visit Instagram",
                 "url": "https://www.instagram.com/salem.media21?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
             },
             {
                 "platform": "TikTok",
-                "description": "Engaging short-form content that captures the essence of our culture.",
+                "description": "Programs clothed in Orthodox life, here they are.",
                 "cta": "Watch on TikTok",
                 "url": "https://www.tiktok.com/@salem_media21?is_from_webapp=1&sender_device=pc"
             },
             {
                 "platform": "YouTube",
-                "description": "In-depth documentaries and series exploring the depth of our identity.",
+                "description": "Programs clothed in Orthodox life, here they are.",
                 "cta": "Subscribe on YouTube",
                 "url": "https://www.youtube.com/@SalemMedia21"
             },
             {
                 "platform": "Telegram",
-                "description": "Real-time updates and exclusive community discussions.",
+                "description": "Programs clothed in Orthodox life, here they are.",
                 "cta": "Join Telegram",
                 "url": "https://t.me"
             }
         ],
         "videos": {
             "badge": "YouTube",
-            "title": "Watch & Learn",
-            "description": "Dive deep into our latest conversations and insights",
+            "title": "Programs We Offer on YouTube",
+            "description": "We regularly bring you wonderful programs that cultivate spiritual life",
             "cta": "View All Videos",
             "channelUrl": "https://www.youtube.com/@SalemMedia21",
             "items": [
                 {
-                    "title": "Building Cultural Bridges",
+                    "title": "Teachings That Build Spiritual Knowledge",
                     "videoId": "u6mmGtvj7ro",
                     "duration": "12:34",
                     "thumbnail": "https://img.youtube.com/vi/u6mmGtvj7ro/maxresdefault.jpg"
                 },
                 {
-                    "title": "Voices of Change",
+                    "title": "Programs That Grow Spiritual Life",
                     "videoId": "kYnnA1FcaVQ",
                     "duration": "8:45",
                     "thumbnail": "https://img.youtube.com/vi/kYnnA1FcaVQ/maxresdefault.jpg"
                 },
                 {
-                    "title": "The Future of Education",
+                    "title": "Beautiful Hymns That Calm the Conscience",
                     "videoId": "p_N0Lr_ooKI",
                     "duration": "16:20",
                     "thumbnail": "https://img.youtube.com/vi/p_N0Lr_ooKI/maxresdefault.jpg"
@@ -79,83 +79,82 @@
             ]
         },
         "closing": {
-            "message": "Together, we build a legacy of wisdom and voice. Be part of the movement that defines our future.",
+            "message": "Follow this media on all social platforms, which is built on programs that develop spiritual life and knowledge, and presents unique programs without abandoning church culture and tradition.",
             "cta": "Connect with Us"
         }
     },
     "am": {
         "hero": {
             "title": "ሳሌም ሚዲያ",
-            "subtitle": "ተፅዕኖ ፈጣሪ ድምፆችን ማጉላት",
-            "description": "ለጥልቅ ውይይቶች፣ ለባህላዊ ዕውቀት እና ለውጥ የሚያመጡ ታሪኮችን የምናጋራበት ምቹ መድረክ እንፈጥራለን።",
-            "cta": "ይዘቶቻችንን ይቃኙ"
+            "subtitle": "ሰላምን እተውላችኋለው ፤ ሰላሜንም እሰጣችኋለሁ ",
+            "description": " በኦርቶዶክሳዊ ስርዓት የተቀርፁ የልብን ሰላም የሚመልሱ ፕሮግራሞችን የሚያገኙበት ቦታ። ",
+            "cta": "ስለ ሳሌም ለማወቅ ይጫኑ"
         },
         "voice_header": {
-            "badge": "ድምፃችን",
+            "badge": "በድረገጾቻችን",
             "title": "የምናጋራቸው ይዘቶች",
-            "description": "ባህል ከፈጠራ ጋር የሚገናኝበትን ምቹ ቦታ ለመፍጠር ቁርጠኞች ነን። ይዘቶቻችን ማህበረሰባችንን በጋራ እሴቶች እና በባለራዕይ ታሪኮች ለማነሳሳት፣ ለማስተማር እና ለማገናኘት በጥንቃቄ የተዘጋጁ ናቸው።"
+            "description": "መንፈሳዊ ህይወትን ከመንፈሳዊ ዕውቀት ጋር ለማገናኘት የተመረጡ መርሐግብራትን ወደ እናንተ እናቀርባለን።"
         },
         "voice": [
             {
-                "title": "ውይይቶች",
-                "description": "እይታዎችን የሚፈታተኑ እና ትርጉም ያለው ለውጥ የሚያመጡ እውነተኛ ጭውውቶች።"
+                "title": "ሳሌም ሚድያ",
+                "description": " መንፈሳዊ ትምህርቶች ፣ ለነፍስ ምግብ የሆኑ መዝሙራት ፣ ለህይወት የሚሆኑ ፕሮግራሞች ፣ በመንፈሳዊ ዕውቀት የሚያንፁ መርሐግብራት።"
             },
             {
-                "title": "ዕውቀት",
-                "description": "በባህል፣ በታሪክ እና በዘመናዊ ፈጠራ ላይ ያተኮሩ ትምህርታዊ ይዘቶች።"
+                "title": "ጉባኤ ዘኆኀተ ብርሃን ( ዘረቡዕ )",
+                "description": " የምትወዷቸው መምህራን ፣ የምትወዷቸው ዘማርያን ፣ ተግባራዊ የክርስትና ህይወትን የሚማሩበት ልዩ የአዳራሽ መርሐግብር ።"
             },
             {
-                "title": "የማህበረሰብ ታሪኮች",
-                "description": "የጋራ የወደፊት እጣ-ፈንታችንን የሚቀርፁ ድምፆች እውነተኛ ትረካዎች።"
+                "title": "መልዐከ ብርሃን መምህር ሠሎሞን በቀለ",
+                "description": "የቦሌ ኆኀተ ብርሃን ቅድስት ማርያም ካቴደራል ዋና አስተዳዳሪ።"
             }
         ],
         "socials": [
             {
                 "platform": "Instagram",
-                "description": "የምስል ታሪኮች እና እለታዊ መረጃዎች በስነ-ጥበባዊ አቀራረብ።",
+                "description": "ኦርቶዶክሳዊ ህይወትን የተላበሱ መርሐግብራት እነሆ ።",
                 "cta": "Instagram ይጎብኙ",
                 "url": "https://www.instagram.com/salem.media21?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
             },
             {
                 "platform": "TikTok",
-                "description": "ባህላችንን የሚገልጹ ማራኪ እና አጫጭር ምስላዊ ይዘቶች።",
+                "description": "ኦርቶዶክሳዊ ህይወትን የተላበሱ መርሐግብራት እነሆ ።",
                 "cta": "TikTok ይመልከቱ",
                 "url": "https://www.tiktok.com/@salem_media21?is_from_webapp=1&sender_device=pc"
             },
             {
                 "platform": "YouTube",
-                "description": "ማንነታችንን የሚዘክሩ ጥልቀት ያላቸው ዘጋቢ ፊልሞች እና ዝግጅቶች።",
+                "description": "ኦርቶዶክሳዊ ህይወትን የተላበሱ መርሐግብራት እነሆ ።",
                 "cta": "YouTube ይከታተሉ",
                 "url": "https://www.youtube.com/@SalemMedia21"
             },
             {
                 "platform": "Telegram",
-                "description": "ወቅታዊ መረጃዎች እና ልዩ የማህበረሰብ ውይይቶች።",
+                "description": "ኦርቶዶክሳዊ ህይወትን የተላበሱ መርሐግብራት እነሆ ።",
                 "cta": "Telegram ይቀላቀሉ",
                 "url": "https://t.me"
             }
         ],
         "videos": {
             "badge": "YouTube",
-            "title": "ይመልከቱ እና ይማሩ",
-            "description": "በቅርብ ጊዜ በሚደረጉ ውይይቶቻችን እና ግንዛቤዎቻችን ላይ ጥልቅ ውይይት ያድርጉ",
-            "cta": "ሁሉንም ቪዲዮዎች ይመልከቱ",
+            "title": "በዩቲዩባችን የምናቀርባቸው ፕሮግራሞች",
+            "description": "የተለያዩ መንፈሳዊ ህይወትን የሚዘሩ ድንቅ ፕሮግራሞችን ወደ እናንተ ዘወትር እናቀርባለን",
             "channelUrl": "https://www.youtube.com/@SalemMedia21",
             "items": [
                 {
-                    "title": "የባህል ድልድይ መገንባት",
+                    "title": "መንፈሳዊ ዕውቀትን የሚገነቡ ትምህርቶች ",
                     "videoId": "u6mmGtvj7ro",
                     "duration": "12:34",
                     "thumbnail": "https://img.youtube.com/vi/u6mmGtvj7ro/maxresdefault.jpg"
                 },
                 {
-                    "title": "የለውጥ ድምፆች",
+                    "title": "መንፈሳዊ ህይወትን የሚያሳድጉ ፕሮግራሞች",
                     "videoId": "kYnnA1FcaVQ",
                     "duration": "8:45",
                     "thumbnail": "https://img.youtube.com/vi/kYnnA1FcaVQ/maxresdefault.jpg"
                 },
                 {
-                    "title": "የትምህርት የወደፊት እጣ",
+                    "title": "ህሊናን የሚያረጋጉ ድንቅ መዝሙራት",
                     "videoId": "p_N0Lr_ooKI",
                     "duration": "16:20",
                     "thumbnail": "https://img.youtube.com/vi/p_N0Lr_ooKI/maxresdefault.jpg"
@@ -163,7 +162,7 @@
             ]
         },
         "closing": {
-            "message": "አንድ ላይ የጥበብ እና የድምፅ አሻራ እናኖራለን። የወደፊት እጣ-ፈንታችንን በሚወስነው ንቅናቄ ላይ ተሳታፊ ይሁኑ።",
+            "message": "መንፈሳዊ ህይወትን እና ዕውቀትን በሚገነቡ መርሐግብራት የተዋቀረው እና የቤተክርስትያን ባህል እና ትውፊትን ሳይለቅ ልዩ መርሐግብራትን የሚያቀርበውን ይህን ሚድያ በሁሉም የማህበራዊ ደረገጽ ይከታተሉን።",
             "cta": "ከእኛ ጋር ይገናኙ"
         }
     }

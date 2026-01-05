@@ -45,19 +45,19 @@ export default function SocialSection({ content, lang = "en" }: SocialSectionPro
                                     {lang === "am"
                                         ? (
                                             <>
-                                                ከ <span className="text-brand-accent">ሳሌም</span> ጋር በመድረኮች ሁሉ ይገናኙ
+                                                የመልዐከ ብርሃን መምህር <span className="text-brand-accent">ሠሎሞን በቀለ</span> ፍሬዎች
                                             </>
                                         )
                                         : (
                                             <>
-                                                Connect with <span className="text-brand-accent">Salem</span> Across Platforms
+                                                Results of Melake Birhan Memhir <span className="text-brand-accent">Solomon Bekele</span>
                                             </>
                                         )}
                                 </h2>
                                 <p className="text-xl text-brand-muted max-w-md">
                                     {lang === "am"
-                                        ? "በማህበረሰባችን የሚገኙበት መድረክ ላይ በተያያዘ ታሪኮች እና ግንዛቤዎችን እናጋራለን።"
-                                        : "We share curated stories and insights on the platforms where our community lives."}
+                                        ? "በመልዐከ ብርሃን መምህር ሠሎሞን በቀለ የተሰሩ የመሠረተ ልማት ስራዎች የ4 ዓመታት የልማት ተጋድሎ ዘጋቢ ፊልም።"
+                                        : "A documentary film about the infrastructure work done by Melake Birhan Memhir Solomon Bekele - 4 years of development efforts."}
                                 </p>
                             </div>
 
@@ -71,7 +71,7 @@ export default function SocialSection({ content, lang = "en" }: SocialSectionPro
                             >
                                 <iframe
                                     className="w-full h-full"
-                                    src="https://www.youtube.com/embed/8DFc88yA1z0?controls=1&modestbranding=1&rel=0"
+                                    src="https://www.youtube.com/embed/ZLNhoJ7QEck?si=lXAFGluwOuar3HQ1"
                                     title={lang === "am" ? "ሳሌም ሚዲያ አጠቃላይ እይታ" : "Salem Media Overview"}
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                     allowFullScreen

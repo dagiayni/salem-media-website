@@ -20,17 +20,17 @@ export default function Hero({ content, lang, channelUrl }: HeroProps) {
         if (lang === "en") {
             return (
                 <>
-                    Amplifying <span className="text-brand-accent">Voices</span>
+                    Peace I leave with you <span className="text-brand-accent"><br></br>My peace</span>
                     <br />
-                    That Matter
+                    I give to you
                 </>
             );
         } else {
             return (
                 <>
-                    ተፅዕኖ ፈጣሪ <span className="text-brand-accent">ድምፆችን</span>
+                    ሰላምን እተውላችኋለው ፣ <span className="text-brand-accent"> ሰላሜን </span>
                     <br />
-                    ማጉላት
+                    እሰጣችኋለው። 
                 </>
             );
         }

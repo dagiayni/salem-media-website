@@ -78,7 +78,7 @@ export default function ClosingSection({ content, channelUrl, socials = [] }: Cl
                             );
                         })()}
                     </div>
-                    <p>© {new Date().getFullYear()} Salem Media.</p>
+                    <p>© {new Date().getFullYear()} ሳሌም ሚድያ ሙሉ መብቱ የተጠበቀ ነው.</p>
                 </footer>
             </div>
         </section>
